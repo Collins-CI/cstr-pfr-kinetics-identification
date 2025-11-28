@@ -1,7 +1,7 @@
 # Dynamic CSTR Modeling & Kinetic Parameter Estimation with PFR Benchmarking
 
 ## Project Overview
-This project demonstrates modeling and analysis of an **isothermal Continuous Stirred Tank Reactor (CSTR)** for a single irreversible reaction \( A \rightarrow B \). Kinetic parameters were estimated from synthetic conversion data, and comparisons were made with an equivalent **Plug Flow Reactor (PFR)**. Optional sensitivity analysis and basic PI control exploration were also performed.
+This project demonstrates modeling and analysis of an **isothermal Continuous Stirred Tank Reactor (CSTR)** for a single irreversible reaction. Kinetic parameters were estimated from synthetic conversion data, and comparisons were made with an equivalent **Plug Flow Reactor (PFR)**. Optional sensitivity analysis and basic PI control exploration were also performed.
 
 ---
 
